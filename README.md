@@ -1,2 +1,2 @@
 # power-blog
-iview structed admin manager
+iview based admin manager
